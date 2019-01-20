@@ -1,0 +1,4 @@
+happiness-logs:
+    type: rest
+    prefix: /v1
+    resource: "@AppBundle/Controller/Api/HappinessController.php"
