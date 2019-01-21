@@ -22,6 +22,8 @@
 
   * add validation
   
+  * handle exceptions
+  
 ## TIP
 
 Data in https://s3-eu-west-1.amazonaws.com/novemberfive-serverside/data.json contains ununique id, but the log's dates for those records are unique. That's why I saved that field as an external_id id database. 
